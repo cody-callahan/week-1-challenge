@@ -63,7 +63,7 @@ a {
 
 /* HERO END */
 
-/*Main section: START*/
+/*MAIN SECTION START*/
 main {
     width: 75%;
     display: inline-block;
@@ -102,10 +102,10 @@ main h2 {
     margin-left: 25px;
 }
 
-/*Main section: END*/
+/*MAIN SECTION END*/
 
 
-/*Side Section: START*/
+/*SIDE SECTION START*/
 aside {
     margin-right: 20px;
     padding: 20px;
@@ -132,15 +132,15 @@ aside img {
     margin: 10px auto;
     max-width: 150px;
 }
-/*Side Section: END*/
+/*SIDE SECTION END*/
 
 
-/*Footer: START*/
+/*FOOTER START*/
 footer {
     padding: 30px;
     clear: both;
     font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
     text-align: center;
 }
-/*Footer: END*/
+/*FOOTER END*/
 
